@@ -6,7 +6,7 @@
     "Google Inc."
   ],
   "description": "Externs for the Google Maps v3.16 API.",
-  "main": "google_maps_api_v3_16.js",
+  "main": "google_maps_api_v3_15.js",
   "keywords": [
     "google",
     "maps",
