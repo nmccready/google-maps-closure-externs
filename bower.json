@@ -1,0 +1,24 @@
+{
+  "name": "google-maps-closure-externs",
+  "version": "3.16",
+  "homepage": "http://code.google.com/apis/maps/documentation/javascript/reference.html",
+  "authors": [
+    "Google Inc."
+  ],
+  "description": "Externs for the Google Maps v3.16 API.",
+  "main": "google_maps_api_v3_16.js",
+  "keywords": [
+    "google",
+    "maps",
+    "closure",
+    "externs"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
